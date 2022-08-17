@@ -1,11 +1,11 @@
 {
-  "baseUrl": "https://github.com/hadenlabs/resume-template",
+  "baseUrl": "https://github.com/christianquispe/resume",
   "ignorePatterns": [
     {
       "pattern": "^https://hadenlabs.com"
     },
     {
-      "pattern": "^https://github.com/hadenlabs/resume-template/compare"
+      "pattern": "^https://github.com/christianquispe/resume/compare"
     }
   ],
   "replacementPatterns": [

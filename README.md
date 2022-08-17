@@ -12,7 +12,7 @@
 
   -->
 
-[![Latest Release](https://img.shields.io/github/release/hadenlabs/resume-template)](https://github.com/hadenlabs/resume-template/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/resume-template/lint-code)](https://github.com/hadenlabs/resume-template/actions?workflow=lint-code) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/changelog-Keep%20a%20Changelog%20v1.0.0-orange)](https://keepachangelog.com)
+[![Latest Release](https://img.shields.io/github/release/christianquispe/resume)](https://github.com/christianquispe/resume/releases) [![Lint](https://img.shields.io/github/workflow/status/christianquispe/resume/lint-code)](https://github.com/christianquispe/resume/actions?workflow=lint-code) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/changelog-Keep%20a%20Changelog%20v1.0.0-orange)](https://keepachangelog.com)
 
 # resume-template
 
@@ -38,8 +38,8 @@ This is a list of applications that need to be installed previously to enjoy all
 ## replace name
 
 ```bash
-agr 'hadenlabs/resume-template' 'owner/resume'
-agr 'ResumeTemplate' 'Resume'
+agr 'christianquispe/resume' 'owner/resume'
+agr 'Resume' 'Resume'
 ```
 
 ```bash
@@ -56,7 +56,7 @@ For additional context, refer to some of these links.
 
 **Got a question?**
 
-File a GitHub [issue](https://github.com/hadenlabs/resume-template/issues).
+File a GitHub [issue](https://github.com/christianquispe/resume/issues).
 
 ## Contributing
 
@@ -91,4 +91,4 @@ The code and styles are licensed under the LGPL-3.0 license [See project license
 
 ## Don't forget to 🌟 Star 🌟 the repo if you like resume-template
 
-[Your feedback is appreciated](https://github.com/hadenlabs/resume-template/issues)
+[Your feedback is appreciated](https://github.com/christianquispe/resume/issues)

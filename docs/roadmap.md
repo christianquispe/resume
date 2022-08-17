@@ -1,4 +1,4 @@
-<!-- Space: ResumeTemplate -->
+<!-- Space: Resume -->
 <!-- Parent: Project -->
 <!-- Title: Roadmap -->
 <!-- Label: Roadmap -->
@@ -29,7 +29,7 @@
 
 The Roadmap is a list of all the things we're working on for the year.
 
-You can see the corresponding projects on [resume](https://github.com/hadenlabs/resume-template)
+You can see the corresponding projects on [resume](https://github.com/christianquispe/resume)
 
 ## Legend
 

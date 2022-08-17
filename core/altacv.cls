@@ -124,7 +124,7 @@
 
 \RequirePackage{xcolor}
 
-\colorlet{accent}{blue!70!black}
+\colorlet{accent}{darkgray}
 \colorlet{heading}{black}
 \colorlet{emphasis}{black}
 \colorlet{headingrule}{black}

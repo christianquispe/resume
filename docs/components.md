@@ -1,4 +1,4 @@
-<!-- Space: ResumeTemplate -->
+<!-- Space: Resume -->
 <!-- Parent: Project -->
 <!-- Title: Components -->
 

@@ -3,8 +3,8 @@
 ## replace name
 
 ```bash
-agr 'hadenlabs/resume-template' 'owner/resume'
-agr 'ResumeTemplate' 'Resume'
+agr 'christianquispe/resume' 'owner/resume'
+agr 'Resume' 'Resume'
 ```
 
 ```bash
